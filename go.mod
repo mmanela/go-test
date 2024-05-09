@@ -2,7 +2,7 @@ module github.com/mmanela/go-test
 
 go 1.22.1
 
-require github.com/sourcegraph/conc v0.3.0
+require github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8
 
 require golang.org/x/exp v0.0.0-20220303212507-bbda1eaf7a17 // indirect
 
